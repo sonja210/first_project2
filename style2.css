@@ -1,0 +1,43 @@
+body{
+    background-image: url(bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font: caption;
+    font: small-caps bold 20px/1 sans-serif;
+    color: white;
+    text-align: center;
+}
+
+.forma {
+    font: small-caps 20px/1 sans-serif;
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+button {
+    font: small-caps 20px/1 sans-serif;
+    height: 60px;
+    width: 300px;
+    background-color: white;
+    border: 0;
+    border-radius: 50px;
+    font-size: 20px;
+    margin-bottom: 200px;
+}
+
+input {
+    width: 400px;
+    height: 50px;
+    border-radius: 40px;
+    font-size: 20px;
+
+}
+
+button:hover {
+    background-color: #e0e0e0;
+}
+
+button:active {
+    background-color: #8d8e8f;

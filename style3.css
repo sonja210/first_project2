@@ -1,0 +1,10 @@
+body{
+    background-image: url(bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font: caption;
+    font: small-caps bold 20px/1 sans-serif;
+    color: white;
+    text-align: center;
+}
+

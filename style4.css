@@ -1,0 +1,27 @@
+body{
+    color: white;
+    background-image: url(bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font: caption;
+    text-align: center;
+}
+
+.menu{
+    display: flex;
+    background-color: white;
+    justify-content: center;
+    font: small-caps bold 20px/1 sans-serif;
+    height: 40px;
+    padding-top: 20px;
+    margin-bottom: 100px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+.m{
+    margin-left: 100px;
+}
