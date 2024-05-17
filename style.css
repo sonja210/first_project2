@@ -59,7 +59,7 @@ a{
     height: 30%;
     width: 250%;
     border-radius: 100px;
-    border:none;
+    border: none;
     font: small-caps bold 30px/1 sans-serif;
     background-color: white
 }
@@ -117,8 +117,8 @@ a{
     background-color: #e8e8e8;
     height: 50px;
     width: 150px;
-    border-radius: 50px;
-    border:none;
+    border-radius: 100px;
+    border: none;
     font: small-caps bold 15px/1 sans-serif;
 }
 
